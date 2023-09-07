@@ -1,5 +1,5 @@
 import "../styles/header.css";
 function Header() {
-  return <header className="header">Styling in CSS</header>;
+  return <header className="header">Random Pictures Generator </header>;
 }
 export default Header;
